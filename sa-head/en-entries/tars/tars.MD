@@ -14,6 +14,8 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mayrhofer__2022-03-29_17-09-33Z__2MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mw-1872__2022-02-17_04-15-22Z__6MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mw-cologne__2022-02-17_04-15-22Z__13MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/pract__2022-03-31_08-56-03Z__5MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/pund_v1__2022-03-31_08-56-03Z__22MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/shabda-sAgara__2022-02-17_04-15-22Z__3MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/spokensanskrit__2022-01-22_15-15-47Z__12MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/wilson__2022-02-17_04-15-22Z__3MB.tar.gz  

@@ -14,6 +14,8 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mayrhofer__2022-03-29_17-09-33Z__2MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-1872__2022-02-17_04-15-22Z__10MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/mw-cologne__2022-02-17_04-15-22Z__35MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/pract__2022-03-31_08-56-03Z__7MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/pund_v1__2022-03-31_08-56-03Z__31MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/shabda-sAgara__2022-02-17_04-15-22Z__7MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/spokensanskrit__2022-01-22_15-15-47Z__20MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/wilson__2022-02-17_04-15-22Z__6MB.slob  
