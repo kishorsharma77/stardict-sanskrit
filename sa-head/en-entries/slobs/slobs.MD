@@ -1,4 +1,4 @@
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/MT-paribhAShA__2022-04-03_05-49-09Z__0MB.slob  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/MT-paribhAShA__2022-04-09_12-48-58Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/Meulenbeld-Sanskrit-Names-of-Plants__2022-02-17_04-15-22Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2022-02-17_04-15-22Z__0MB.slob  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/slobs/Vedic-Index-of-Names-and-Subjects__2022-02-17_04-15-22Z__1MB.slob  
