@@ -1,4 +1,4 @@
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/MT-paribhAShA__2022-04-26_06-15-00Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/MT-paribhAShA__2022-04-27_06-04-34Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Meulenbeld-Sanskrit-Names-of-Plants__2022-02-17_04-15-22Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2022-02-17_04-15-22Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Vedic-Index-of-Names-and-Subjects__2022-02-17_04-15-22Z__0MB.tar.gz  
