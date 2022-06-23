@@ -1,3 +1,3 @@
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/other-indic-entries/tars/samskritam-tamizham_dictionary__2022-01-22_15-15-47Z__0MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/other-indic-entries/tars/shabdArtha_kaustubha__2022-06-23_03-05-36Z__5MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/other-indic-entries/tars/shabdArtha_kaustubha__2022-06-23_03-26-16Z__5MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/other-indic-entries/tars/vedic-rituals-hi__2022-01-22_15-15-47Z__0MB.tar.gz  
