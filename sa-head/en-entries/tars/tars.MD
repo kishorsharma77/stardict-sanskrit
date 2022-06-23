@@ -1,9 +1,9 @@
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/MT-paribhAShA__2022-06-19_11-09-02Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/MT-paribhAShA__2022-06-23_03-59-05__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Meulenbeld-Sanskrit-Names-of-Plants__2022-02-17_04-15-22Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2022-02-17_04-15-22Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/Vedic-Index-of-Names-and-Subjects__2022-02-17_04-15-22Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/apte-1890__2022-06-14_15-04-01Z__4MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/apte-sa__2022-01-22_15-15-47Z__6MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/apte-sa__2022-06-23_04-06-27__6MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/aufrecht-catalogus-catalogorum__2022-02-17_04-15-22Z__3MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/benfey__2022-06-14_15-04-01Z__1MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/capeller-sanskrit-english__2022-06-14_15-04-01Z__1MB.tar.gz  
@@ -12,9 +12,9 @@ https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/indian-epigraphical-glossary__2022-02-17_04-15-22Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/lanman__2022-02-17_04-15-22Z__0MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/macdonell__2022-06-14_15-04-01Z__2MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mayrhofer__2022-03-29_17-09-33Z__2MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mayrhofer__2022-06-23_03-45-29__2MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mw-1872__2022-02-17_04-15-22Z__6MB.tar.gz  
-https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mw-cologne__2022-06-14_15-04-01Z__13MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/mw-cologne__2022-06-23_03-58-59__13MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/pract__2022-03-31_08-56-03Z__5MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/pund_v1__2022-03-31_08-56-03Z__22MB.tar.gz  
 https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/en-entries/tars/shabda-sAgara__2022-02-17_04-15-22Z__3MB.tar.gz  
